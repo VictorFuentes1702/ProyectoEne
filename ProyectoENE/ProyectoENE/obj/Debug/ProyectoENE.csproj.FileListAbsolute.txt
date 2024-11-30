@@ -1,0 +1,17 @@
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\bin\Debug\ProyectoENE.exe.config
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\bin\Debug\ProyectoENE.exe
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\bin\Debug\ProyectoENE.pdb
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.csprojAssemblyReference.cache
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Entities.View.ViewAgregarUsuario.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Entities.View.VistaAdmin.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Form1.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Properties.Resources.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.exe
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.pdb
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Entities.View.ViewAgregarSueldos.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Entities.View.viewAgregarTrabajador.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Entities.View.viewListarTrabajadores.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Entities.View.ViewModificarTrabajador.resources
+C:\Users\victo\source\repos\ProyectoENE\ProyectoENE\obj\Debug\ProyectoENE.Entities.View.View1.resources
